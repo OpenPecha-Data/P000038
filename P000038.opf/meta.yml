@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །ལེགས་བཤད་ཀུན་བཟང་མཆོད་སྤྲིན་བཞུགས་སོ།
+  authors:
+  - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  sku: SHE-SHAP-14
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: The Cloudlike Offering of Samantabhadra:An Excellent Discourse
+    bo: ལེགས་བཤད་ཀུན་བཟང་མཆོད་སྤྲིན་བཞུགས་སོ།
+  collection:
+    en: Shabkar Series–  Book 14
+    bo: ཞབས་དཀར་གསུང་འབུམ།–  དེབ། ༡༤
+  author:
+    en: Shabkar Tsokdruk Rangdrol
+    bo: ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SHAP-14
+  category:
+    en: Dharma Teaching
+    bo: ཆོས་བསླབ་བྱ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SHAP-14.epub
+  description:
+    en: ''
+    bo: ''
