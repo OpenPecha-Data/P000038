@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000038
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ལེགས་བཤད་ཀུན་བཟང་མཆོད་སྤྲིན་བཞུགས་སོ།
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-14
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-14
 web_metadata:
   title:
     en: The Cloudlike Offering of Samantabhadra:An Excellent Discourse
